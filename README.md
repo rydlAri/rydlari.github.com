@@ -1,1 +1,1 @@
-# rydlari.github.com
+# rydlari.github.io
